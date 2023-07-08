@@ -9,7 +9,7 @@ const Header = () => (
     <div className='app__wrapper-info'>
       <SubHeading title="chase the new flavour" />
       <h1 className='app__header-h1'>The key to Fine Dinning</h1>
-      <p className='p__opensans' style={{margin:'2rem 0'}}> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt sequi accusamus dolorum, maiores modi praesentium. Amet dolores iure cupiditate assumenda! </p>
+      <p className='p__opensans' style={{margin:'2rem 0'}}>Experience the epitome of steakhouse dining at its finest. At our steakhouse, we are dedicated to delivering a truly exceptional culinary journey centered around the mastery of steak. </p>
       <button type='button' className='custome__button'>Expolre Menu</button>
 
     </div>

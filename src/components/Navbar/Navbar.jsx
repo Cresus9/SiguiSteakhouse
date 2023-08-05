@@ -2,6 +2,7 @@
 import { useState } from "react"
 import  { GiHamburgerMenu } from "react-icons/gi"
 import { MdOutlineRestaurantMenu } from "react-icons/md"
+import { useNavigate } from "react-router-dom"
 
 import images from "../../constants/images"
 
@@ -9,6 +10,8 @@ import './Navbar.css';
 
 const Navbar = () => {
   const [toggleMenu, SetToggleMenu] =useState(false)
+
+  // const navigate = useNavigate()
   return(
  <nav className='app__navbar'>
   <div className='app__navbar-logo'>
@@ -22,8 +25,8 @@ const Navbar = () => {
     <li className='p__opensans'><a href='#contact'>Contact</a></li>
   </ul>
   <div className='app__navbar-login'>
-    <a href='#login' className='p__opensans'>Log In / Register</a>
-    <div/>
+    {/* <a href='#login' className='p__opensans'>Log In / Register</a> */}
+    {/* <div/> */}
     <a href='/' className='p__opensans'>Book A Table</a>
   </div>
   <div className='app__navbar-smallscreen'>

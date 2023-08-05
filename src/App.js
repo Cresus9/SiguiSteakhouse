@@ -10,6 +10,7 @@ import Laurels from './container/Laurels/Laurels';
 import Gallery from './container/Gallery/Gallery';
 import FindUs from './container/Findus/FindUs';
 import Footer from './container/Footer/Footer';
+import Book from './components/BookTable/Book';
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <Gallery />
       <FindUs />
       <Footer />
+      {/* <Book /> */}
     </div>
   );
 }

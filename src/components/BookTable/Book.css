@@ -1,0 +1,381 @@
+.colorlib-com-by-html {
+    align-items: flex-start;
+    background-color: #ffd9b0;
+    border: 1px solid;
+    border-color: #000000;
+    display: flex;
+    justify-content: center;
+    min-height: 1576.41px;
+    min-width: 393px;
+    padding: 115px 15px;
+    position: relative;
+    width: 100%;
+}
+
+.colorlib-com-by-html .div-container {
+    background-color: #ffffff01;
+    border-radius: 10px;
+    box-shadow: 0px 10px 9.9px 0.1px #0000000d;
+    height: 1346.41px;
+    max-width: 390px;
+    position: relative;
+    width: 360px;
+}
+
+.colorlib-com-by-html .div-booking-content {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 360px;
+}
+
+.colorlib-com-by-html .div-booking-form {
+    align-items: flex-start;
+    background-color: #111111;
+    display: flex;
+    flex: 0 0 auto;
+    position: relative;
+    width: 360px;
+}
+
+.colorlib-com-by-html .form {
+    height: 965.95px;
+    position: relative;
+    width: 360px;
+}
+
+.colorlib-com-by-html .heading {
+    align-items: flex-start;
+    display: flex;
+    justify-content: center;
+    left: 40px;
+    padding: 0px 19.56px 0.59px 18.44px;
+    position: absolute;
+    top: 71px;
+    width: 280px;
+}
+
+.colorlib-com-by-html .booking-place-for {
+    color: #ffffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 37.8px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.colorlib-com-by-html .div-form-group {
+    height: 50px;
+    left: 40px;
+    position: absolute;
+    top: 176px;
+    width: 280px;
+}
+
+.colorlib-com-by-html .overlap-group {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #999999;
+    height: 29px;
+    position: relative;
+    top: 21px;
+}
+
+.colorlib-com-by-html .text-wrapper {
+    height: 50px;
+    left: 40px;
+    background-color: #ffffff01;
+    color: #bebebe;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 26px;
+    left: -1px;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    line-height: 37.8px;
+}
+
+.colorlib-com-by-html .overlap-wrapper {
+    height: 50px;
+    left: 40px;
+    position: absolute;
+    top: 236px;
+    width: 280px;
+}
+
+.colorlib-com-by-html .list {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #999999;
+    display: inline-flex;
+    left: 40px;
+    padding: 15px 0px 1px;
+    position: absolute;
+    top: 296px;
+}
+
+.colorlib-com-by-html .item {
+    height: 35.19px;
+    position: relative;
+    width: 280px;
+}
+
+.colorlib-com-by-html .div {
+    color: #bebebe;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+}
+
+.colorlib-com-by-html .symbol {
+    color: #bebebe;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    height: 36px;
+    left: 272px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.colorlib-com-by-html .item-wrapper {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #999999;
+    display: inline-flex;
+    left: 40px;
+    padding: 15px 0px 1px;
+    position: absolute;
+    top: 361px;
+}
+
+.colorlib-com-by-html .div-form-radio {
+    height: 321px;
+    left: 40px;
+    position: absolute;
+    top: 426px;
+    width: 280px;
+}
+
+.colorlib-com-by-html .label-select-your {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+}
+
+.colorlib-com-by-html .div-radio-item-list {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    left: -3px;
+    padding: 0px 131px 0px 3px;
+    position: absolute;
+    top: 67px;
+    width: 286px;
+}
+
+.colorlib-com-by-html .label {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #ebebeb;
+    border-radius: 18px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 5px 12.97px 5px 14.03px;
+    position: relative;
+}
+
+.colorlib-com-by-html .text-wrapper-2 {
+    color: #888888;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.colorlib-com-by-html .span-radio-item {
+    background-color: #edb77d;
+    border-radius: 24px;
+    height: 50px;
+    position: relative;
+    width: 152px;
+}
+
+.colorlib-com-by-html .text-wrapper-3 {
+    color: #222222;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    height: 20px;
+    left: 96px;
+    letter-spacing: 0;
+    line-height: 19.8px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+}
+
+.colorlib-com-by-html .div-wrapper {
+    align-items: flex-start;
+    background-color: #111111;
+    border: 2px solid;
+    border-radius: 18px;
+    display: inline-flex;
+    left: 4px;
+    padding: 5px 13.58px 5px 12.42px;
+    position: absolute;
+    top: 7px;
+}
+
+.colorlib-com-by-html .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    margin-top: -2px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.colorlib-com-by-html .label-2 {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #ebebeb;
+    border-radius: 18px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 5px 13.37px 5px 13.63px;
+    position: relative;
+}
+
+.colorlib-com-by-html .label-3 {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #ebebeb;
+    border-radius: 18px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 5px 13.47px 5px 13.53px;
+    position: relative;
+}
+
+.colorlib-com-by-html .label-4 {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #ebebeb;
+    border-radius: 18px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 5px 9.73px 5px 11.27px;
+    position: relative;
+}
+
+.colorlib-com-by-html .div-form-submit {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    left: 40px;
+    padding: 0px 56px 0.8px 0px;
+    position: absolute;
+    top: 812px;
+    width: 280px;
+}
+
+.colorlib-com-by-html .input {
+    align-items: flex-start;
+    background-color: #edb77d;
+    border-radius: 5px;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    padding: 15px 43.72px 15px 42px;
+    position: relative;
+    width: 151.72px;
+}
+
+.colorlib-com-by-html .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 13.3px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.colorlib-com-by-html .link-verify-your {
+    color: #edb77d;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19.8px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.colorlib-com-by-html .div-booking-image {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    padding: 0px 0px 8.18px;
+    position: relative;
+    width: 360px;
+}
+
+.colorlib-com-by-html .form-img-jpg {
+    height: 380.27px;
+    max-width: 360px;
+    position: relative;
+    width: 360px;
+}
